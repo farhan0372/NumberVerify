@@ -33,7 +33,7 @@
             <Button
                 android:id="@+id/ac_main3_btn_1"
                 android:layout_width="226dp"
-                android:layout_height="74dp"
+                android:layout_height="76dp"
                 android:text="@string/Commit"
                 android:textSize="24sp"
                 app:layout_constraintBottom_toBottomOf="parent"
