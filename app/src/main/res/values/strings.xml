@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Number&amp;Verify</string>
+    <string name="number">Number</string>
+    <string name="Verify">Verify</string>
+    <string name="Commit">Commit</string>
+    <string name="number">Number</string>
+    <string name="entercode">EnterCode</string>
+</resources>
